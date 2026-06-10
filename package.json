@@ -1,0 +1,13 @@
+{
+  "name": "shopping-list-pwa",
+  "version": "1.0.0",
+  "description": "רשימת קניות משותפת — PWA עם סנכרון דרך MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "mongodb": "^6.8.0"
+  }
+}
